@@ -1,3 +1,11 @@
+# Linear Classifier and Correlation Analysis for 500 Cities CDC and Census Data
+
+Author: [Soumyendu Sarkar](https://www.linkedin.com/in/soumyendusarkar/)
+
+[LinkedIn Article](https://www.linkedin.com/pulse/obesity-health-factors-correlation-us-cities-city-rankings-sarkar)
+
+[Slides](https://www.slideshare.net/soumyendusarkar/obesity-correlation-study-and-linear-classifier-performance-analysis-with-other-health-factors-from-cdc-and-census-tract-data-merge-for-usa-urban-population?trk=v-feed)
+
 ## Objective
 
 * Use Linear Classification and Principal Component Analysis to implement a Machine Learning Model to Classify Obesity from Census data for 500 cities and Census Tract & County data
@@ -12,9 +20,3 @@
 * Obtain 400 Training & 100 Test Feature vectors with shuffling from 500 cities database to remove bias
 * Implement Linear Classifier with Squared and Cubed Non-Linear terms to enhanced accuracy and use data normalization to optimize performance
 * Implement Principal Component Analysis for Obesity Classification
-
-[Slides](https://www.slideshare.net/soumyendusarkar/obesity-correlation-study-and-linear-classifier-performance-analysis-with-other-health-factors-from-cdc-and-census-tract-data-merge-for-usa-urban-population?trk=v-feed)
-
-[LinkedIn Article](https://www.linkedin.com/pulse/obesity-health-factors-correlation-us-cities-city-rankings-sarkar)
-
-Original author is [Soumyendu Sarkar](https://www.linkedin.com/in/soumyendusarkar/)
